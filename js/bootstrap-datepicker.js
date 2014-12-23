@@ -1726,7 +1726,9 @@
 						'<option value="am">am</option>'+
 						'<option value="pm">pm</option>'+
 					'</select>'+
-					'<button class="btn btn-success btn-small">Set</button>'+
+					'<button class="btn btn-success">' +
+						'<span class="glyphicon glyphicon-ok"></span>' +
+					'</button>'+
 				'</th>'+
 			'</tr>';
 		},
